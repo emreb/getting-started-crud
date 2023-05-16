@@ -15,6 +15,7 @@ resourcePolicy:
       effect: EFFECT_ALLOW
       roles:
         - ADMIN
+        - EMRE
 
     # Any user can create a resource
     - actions:

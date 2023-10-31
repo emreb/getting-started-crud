@@ -4,9 +4,3 @@ labels:
     branch: main
   production:
     branch: main
-  staging:
-    branch: main
-  testing:
-    branch: main
-  uat:
-    branch: main
